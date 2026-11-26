@@ -1,0 +1,6 @@
+{
+  "name": "Kala & Karat — Heritage Handmade Fine Jewelry",
+  "description": "Luxury handmade Indian fine jewelry storefront featuring 22k gold, Kundan, Polki, and Zambian emerald heirlooms crafted by master karigars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
