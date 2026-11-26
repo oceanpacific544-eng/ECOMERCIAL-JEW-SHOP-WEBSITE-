@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
+<h1 align="center">Hi 👋, I'm Prashant — Animated</h1>
 <h3 align="center">Full Stack Developer from India & Ethical Hacking Enthusiast</h3>
 
 <p align="center">
@@ -6,11 +6,12 @@
   <a href="https://github.com/oceanpacific544-eng?tab=repositories">
     <img src="https://img.shields.io/github/followers/oceanpacific544-eng?label=Followers&style=flat&color=2ea44f" alt="GitHub followers" />
   </a>
+  <img src="https://img.shields.io/badge/Mode-Animated-ff69b4?style=flat-square" alt="Animated Mode" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me (Animated)
 
 - 🔭 Currently working on **[E-Commerce Jewelry Shop Website](https://github.com/oceanpacific544-eng/ECOMERCIAL-JEW-SHOP-WEBSITE-)**
 - 🌱 Currently learning **Operating Systems (OS internals & Linux systems)**
@@ -22,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Analytics, Repos, Stars & Streak
+### 📊 Animated GitHub Analytics, Repos, Stars & Streak
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=oceanpacific544-eng&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats (Total Repos, Stars, Commits)" />
@@ -35,7 +36,7 @@
 
 ---
 
-### 📈 Contribution & Commit Activity Graph
+### 📈 Animated Contribution & Commit Activity Graph
 
 <p align="center">
   <a href="https://github.com/oceanpacific544-eng">
