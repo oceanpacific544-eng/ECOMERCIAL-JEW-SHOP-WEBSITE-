@@ -13,7 +13,7 @@
 
 ### 🚀 About Me (Animated)
 
-- 🔭 Currently working on **[E-Commerce Jewelry Shop Website](https://github.com/oceanpacific544-eng/ECOMERCIAL-JEW-SHOP-WEBSITE-)**
+- 🔭 Currently working on **[E-Commerce Jewelry Shop Website](https://github.com/oceanpacific544-eng/ECOMERCIAL-JEW-SHOP-WEBSITE-)** & **[AI Studio App](https://aistudio.google.com/apps/51e8e97a-4283-4458-b22b-bb2ba67b57ee?showPreview=true&showAssistant=true)**
 - 🌱 Currently learning **Operating Systems (OS internals & Linux systems)**
 - 📝 Regularly writing about **Ethical Hacking & Hacker Life** *(add your blog/Medium/Hashnode link here)*
 - 💬 Ask me about **Full Stack Web Development & Security Mindset**
@@ -57,7 +57,7 @@
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **E-Commerce Jewelry Shop Website** | Online jewelry storefront with product showcase and shopping features. | [Repo](https://github.com/oceanpacific544-eng/ECOMERCIAL-JEW-SHOP-WEBSITE-) |
-| **Project Title #2** | *Add a 1-line summary of your second best repository (stack + what it solves).* | [Repo](https://github.com/oceanpacific544-eng/REPO_NAME_2) |
+| **AI Studio Web App** | Interactive AI-powered application built on Google AI Studio. | [Live App](https://aistudio.google.com/apps/51e8e97a-4283-4458-b22b-bb2ba67b57ee?showPreview=true&showAssistant=true) |
 | **Project Title #3** | *Add a 1-line summary of your third best repository or security/tool project.* | [Repo](https://github.com/oceanpacific544-eng/REPO_NAME_3) |
 
 ---
